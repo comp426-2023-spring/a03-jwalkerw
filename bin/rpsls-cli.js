@@ -65,5 +65,4 @@ try {
     console.log("  - Paper DISPROVES Spock");
     console.log("  - Spock VAPORIZES Rock");
     console.log("  - Rock CRUSHES Scissors");
-    process.exit(1);
 }
