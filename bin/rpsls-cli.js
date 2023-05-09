@@ -36,7 +36,7 @@ if (options.r || options.rules) {
     process.exit(0);
 }
 
-const pcMove = args._[0];
+const pcMove = options._[0];
 
 try {
     const ans = rpsls(pcMove);
